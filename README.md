@@ -8,6 +8,10 @@ Assume we have a .bed file, filname.bed, as well as the corresponding .bed file,
 
 python FastNeigh.py filename 1 3
 
+More generally, type
+
+python FastNeigh.py filename epsilon mret
+
 Our implementation requires numpy, scipy, and pysnptools to be installed.
 
 # Files
